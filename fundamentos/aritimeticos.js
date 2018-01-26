@@ -6,4 +6,4 @@ const multiplicaca  = a * b
 const divisao = a / b 
 const modulo = a % 2
 
-console.log(modulo)
+console.log(soma,subtracao,multiplicaca,divisao,modulo)
