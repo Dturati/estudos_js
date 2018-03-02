@@ -19,3 +19,5 @@ obj.teste = 'teste'
 console.log(obj.funcaoDois())
 
 const teste = {}
+
+const teste2 = {}
