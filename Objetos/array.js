@@ -17,3 +17,5 @@ obj.peso = 91
 obj.teste = 'teste'
 
 console.log(obj.funcaoDois())
+
+const teste = {}
