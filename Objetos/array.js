@@ -21,3 +21,5 @@ console.log(obj.funcaoDois())
 const teste = {}
 
 const teste2 = {}
+
+const teste3 = {}
