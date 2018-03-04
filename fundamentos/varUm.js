@@ -17,4 +17,7 @@ function teste()
     console.log(local)
 }
 
-console.log(local)
+
+var um = 10
+var um 
+console.log(typeof um, um)
