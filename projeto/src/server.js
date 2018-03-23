@@ -29,6 +29,11 @@ app.post('/produtos',(req,res,next) => {
 
     res.send(produto)
 })
+app.get('/teste',(req,res,next) => {
+    const nome = 'David'
+    const [a,b,...c] = nome;
+    res.send({'a':a,'b':b,'c':c})
+});
 
 app.post('/vaginas',(req,res,next) => {
     res.send({status:'Uhmmm quero chupar ...'})
